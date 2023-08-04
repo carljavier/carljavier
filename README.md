@@ -16,7 +16,7 @@ Now its all about everything as code, automating all the things to make life eas
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with all the ☁️ clouds and Hashicorp's tools <br /> Terraform, Vault, Consul, Nomad, WayPoint, Boundary.
-- 🚀 &nbsp; I’m currently learning Go fundamentals.
+- 🚀 &nbsp; I’ve learnt Go fundamentals, built a CLI tool with it ([TFM](https://hashicorp-services.github.io/tfm/)), currently working on my next CLI tool with go. 
 - 💬 &nbsp; Ask me about anything [here](https://github.com/carljavier/carljavier/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: hello@carljavier.cloud
 - 📆 &nbsp; Schedule a video chat with me via [Calendy](https://calendly.com/carljavier)
